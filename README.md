@@ -27,8 +27,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Sources
 #### IDE ADDONS:
-VSCODE users can download Vetur from marketplace.
-VS Community users extension: https://github.com/madskristensen/VuePack2019
+VSCODE users can download <b>Vetur</b> from marketplace.<br />
+VS Community users can use extension: https://github.com/madskristensen/VuePack2019
 
 #### INSTALLATION:
 https://cli.vuejs.org/guide/installation.html
