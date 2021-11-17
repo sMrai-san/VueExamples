@@ -26,20 +26,20 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ## Sources
-IDE ADDONS:
+#### IDE ADDONS:
 VSCODE users can download Vetur from marketplace.
 VS Community users extension: https://github.com/madskristensen/VuePack2019
 
-INSTALLATION:
+#### INSTALLATION:
 https://cli.vuejs.org/guide/installation.html
 
-STEP-BY-STEP YOUTUBE:
+#### STEP-BY-STEP YOUTUBE:
 https://www.youtube.com/watch?v=ccsz9FRy-nk&list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f
 
-BOOTSTRAP:
+#### BOOTSTRAP:
 https://bootstrap-vue.org/docs/reference/starter-templates
 
-AXIOS:
+#### AXIOS:
 https://www.npmjs.com/package/vue-axios
 
 
